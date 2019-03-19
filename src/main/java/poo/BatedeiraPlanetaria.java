@@ -67,6 +67,4 @@ public class BatedeiraPlanetaria {
                 System.out.println("Informe opção para batedores");
         }
     }
-
-
 }
